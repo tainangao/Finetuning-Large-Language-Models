@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Finetuning-Large-Language-Models-1",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../Finetuning-Large-Language-Models/images"
+		}
+	],
+	"settings": {}
+}
